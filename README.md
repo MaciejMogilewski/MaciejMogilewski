@@ -10,7 +10,7 @@ I am currently learning to program using Javascript, HTML, CSS, Sass.
 ## CodeWars
 <br>
 
-[![Codewars](https://github.r2v.ch/codewars?user=MaciejMogilewski&name=true&top_languages=true&theme=gradient)(https://www.codewars.com/users/MaciejMogilewski)]
+![Codewars](https://github.r2v.ch/codewars?user=MaciejMogilewski&name=true&top_languages=true&theme=gradient)
 ## Expertise
 <br>
 
