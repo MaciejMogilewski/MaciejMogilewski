@@ -1,7 +1,7 @@
 ### Hello World!
 I am a front-end developer from Poland.
 
-I am currently learning to program using Javascript, HTML, CSS, Sass.
+I am currently learning to program using Javascript, React, HTML, CSS, Sass.
 
 ## Connect with me
 
