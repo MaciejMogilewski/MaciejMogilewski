@@ -9,7 +9,11 @@ I am currently learning to program using Javascript, HTML, CSS, Sass.
 
 ## CodeWars
 <br>
-![Codewars](https://github.r2v.ch/codewars?user=MaciejMogilewski)
+<p align="center" >
+    <a href="LINK TO: WHEN CLICKED">
+      <img src="https://github.r2v.ch/codewars?user=MaciejMogilewsk" />
+    </a>
+</p>
 
 ## Expertise
 <br>
