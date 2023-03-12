@@ -9,8 +9,8 @@ I am currently learning to program using Javascript, HTML, CSS, Sass.
 
 ## CodeWars
 <br>
-![Codewars](https://github.r2v.ch/codewars?user=MaciejMogilewski)
 
+![Codewars](https://github.r2v.ch/codewars?user=MaciejMogilewski)
 ## Expertise
 <br>
 
